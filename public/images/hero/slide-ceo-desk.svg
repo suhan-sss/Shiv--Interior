@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 540" preserveAspectRatio="xMidYMid slice">
+  <rect width="1500" height="540" fill="#1e293b"/>
+  <!-- Mock desk silhouette -->
+  <g fill="#475569" opacity="0.8">
+    <rect x="700" y="260" width="700" height="180" rx="8"/>
+    <rect x="900" y="440" width="40" height="60"/>
+    <rect x="1160" y="440" width="40" height="60"/>
+    <rect x="820" y="180" width="120" height="80" rx="4"/>
+  </g>
+  <!-- Text label -->
+  <text x="100" y="220" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="56" fill="#f8fafc">CEO/MD ▶ DESK</text>
+  <text x="100" y="260" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#94a3b8">Placeholder — replace with slide-ceo-desk.jpg</text>
+  <text x="100" y="285" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#64748b">1500 × 540</text>
+</svg>

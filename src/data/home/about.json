@@ -1,0 +1,25 @@
+{
+  "sectionNumber": "02",
+  "heading": "Our Studio",
+  "sideChip": {
+    "year": "Since 2000",
+    "studio": "Interior Design Studio"
+  },
+  "welcome": {
+    "heading": "Welcome to Shiv Industries & Construction LLP's",
+    "paragraphs": [
+      "(SICL) is your one-stop solution for premium-quality furniture that redefines functionality, aesthetics, and comfort. We pride ourselves on being a leader in creating inspiring spaces that blend modern design with practical utility. Our mission is to transform your workspaces, educational environments, and gathering areas into places of efficiency, collaboration, and visual appeal.",
+      "At (SICL), we understand that furniture plays a pivotal role in shaping the ambiance and productivity of any space. That's why we offer a comprehensive range of meticulously designed furniture solutions, tailored to meet the unique needs of businesses, institutions, and organizations."
+    ],
+    "quote": "Transform your workspace, transform your business."
+  },
+  "stats": {
+    "heading": "Together, let's build a future filled with Opportunities and Success.",
+    "items": [
+      { "value": 25, "suffix": "+", "label": "Years of Experience" },
+      { "value": 50, "suffix": "+", "label": "Designs" },
+      { "value": 1800, "suffix": "+", "label": "Finished Projects" },
+      { "value": 300, "suffix": "+", "label": "Team Members" }
+    ]
+  }
+}

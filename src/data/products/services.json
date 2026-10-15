@@ -1,0 +1,141 @@
+{
+  "heading": "Our Service Planning",
+  "subtext": "From concept to completion, we carefully shape each element to create interiors that feel cohesive, functional, and distinctly your own.",
+  "items": [
+    {
+      "category": "Early Stage",
+      "title": "Space Planning",
+      "description": "We study how you actually live and move through a room, then shape layouts that balance flow, function, and comfort in every space.",
+      "pills": [
+        "Residential · Commercial",
+        "2–4 Weeks",
+        "New Build · Renovation",
+        "Full · Partial Spaces"
+      ],
+      "includes": [
+        {
+          "category": "Spatial Structure",
+          "title": "Floor Plans",
+          "image": {
+            "src": "https://framerusercontent.com/images/L9Gl01YgztMssxhbHCo0NETXMEc.jpg",
+            "alt": "Floor Plans for Space Planning"
+          }
+        },
+        {
+          "category": "Design Exploration",
+          "title": "Layout Studies",
+          "image": {
+            "src": "https://framerusercontent.com/images/azChenEn44oqlYCZC9T9rfAjzBc.jpg",
+            "alt": "Layout Studies for Space Planning"
+          }
+        },
+        {
+          "category": "Movement & Access",
+          "title": "Traffic Flow",
+          "image": {
+            "src": "https://framerusercontent.com/images/zFyjQpV18ZwEp2gpt60EEMSToj4.jpg",
+            "alt": "Traffic Flow for Space Planning"
+          }
+        },
+        {
+          "category": "Functional Balance",
+          "title": "Furniture Placement",
+          "image": {
+            "src": "https://framerusercontent.com/images/oDVfkaM9tdpkpfRXxt6VXANnH4.jpg",
+            "alt": "Furniture Placement for Space Planning"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Structural",
+      "title": "Renovation & Remodeling",
+      "description": "We work with your existing architecture, rethinking layouts, finishes, and structural details to bring an outdated or underused space back to life.",
+      "pills": [
+        "Residential · Commercial",
+        "4–12 Weeks",
+        "Partial · Full Renovation",
+        "Existing Spaces"
+      ],
+      "includes": [
+        {
+          "category": "Built Environment",
+          "title": "Structural Planning",
+          "image": {
+            "src": "https://framerusercontent.com/images/nYxcqCjZg3sx9mt5br9ylz6w8.jpg",
+            "alt": "Structural Planning for Renovation & Remodeling"
+          }
+        },
+        {
+          "category": "Material Direction",
+          "title": "Material Selection",
+          "image": {
+            "src": "https://framerusercontent.com/images/QBc1rujM0SZUQ5ZSIRYSsAXKvlY.jpg",
+            "alt": "Material Selection for Renovation & Remodeling"
+          }
+        },
+        {
+          "category": "Project Execution",
+          "title": "Contractor Coordination",
+          "image": {
+            "src": "https://framerusercontent.com/images/77WjlFEguK5VT9LVi6akOXmfPY.jpg",
+            "alt": "Contractor Coordination for Renovation & Remodeling"
+          }
+        },
+        {
+          "category": "Process & Compliance",
+          "title": "Permitting Support",
+          "image": {
+            "src": "https://framerusercontent.com/images/7cbhBQDgqFN0xCxwXJoVhjUdfo.jpg",
+            "alt": "Permitting Support for Renovation & Remodeling"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Full Scope",
+      "title": "Full-Service Design",
+      "description": "From the first concept sketch to the last placed object, we manage every stage of the project so your vision comes together without the guesswork.",
+      "pills": [
+        "Residential · Commercial",
+        "8–16 Weeks",
+        "Full Project Scope",
+        "Concept · Completion"
+      ],
+      "includes": [
+        {
+          "category": "Design Direction",
+          "title": "Concept Development",
+          "image": {
+            "src": "https://framerusercontent.com/images/fnVpUnD0LT1oW8ACZd6w2MONoEE.jpg",
+            "alt": "Concept Development for Full-Service Design"
+          }
+        },
+        {
+          "category": "End-to-End Coordination",
+          "title": "Project Management",
+          "image": {
+            "src": "https://framerusercontent.com/images/lhP5wI32TnA0n3iiTgppEz6QaU.jpg",
+            "alt": "Project Management for Full-Service Design"
+          }
+        },
+        {
+          "category": "Spatial Preview",
+          "title": "3D Visualization",
+          "image": {
+            "src": "https://framerusercontent.com/images/g9Watwd1hNJPy0NKABtfSour2hQ.jpg",
+            "alt": "3D Visualization for Full-Service Design"
+          }
+        },
+        {
+          "category": "The Finishing Layer",
+          "title": "Final Styling",
+          "image": {
+            "src": "https://framerusercontent.com/images/us5FSwAZWxmQq6WvTLl4q3FLb0.jpg",
+            "alt": "Final Styling for Full-Service Design"
+          }
+        }
+      ]
+    }
+  ]
+}

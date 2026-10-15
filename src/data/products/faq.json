@@ -1,0 +1,35 @@
+{
+  "sectionNumber": "03",
+  "heading": "FAQ",
+  "subtext": "Got questions? We've gathered the most common answers to help you understand how we work.",
+  "faqs": [
+    {
+      "question": "Do you work on residential or commercial projects?",
+      "answer": "We work across residential and select commercial interiors, creating spaces that feel personal and considered."
+    },
+    {
+      "question": "What types of projects do you take on?",
+      "answer": "From single-room transformations to full-scale interiors, we tailor our approach to each project."
+    },
+    {
+      "question": "What if my style doesn't match yours?",
+      "answer": "Our process starts with you, not a signature style. We shape each project around your taste, not the other way around."
+    },
+    {
+      "question": "Can you work with my existing furniture?",
+      "answer": "Absolutely. We love combining meaningful existing pieces with new elements."
+    },
+    {
+      "question": "How involved will I be in the process?",
+      "answer": "Your input guides the project while we handle the creative direction and details."
+    },
+    {
+      "question": "How long does a project take?",
+      "answer": "Timelines vary by scope, but we'll establish a clear schedule before the project begins."
+    },
+    {
+      "question": "What happens after I enquire?",
+      "answer": "We'll review your project, get to know your vision, and arrange an initial conversation."
+    }
+  ]
+}

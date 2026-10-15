@@ -1,0 +1,52 @@
+{
+  "sectionNumber": "07",
+  "heading": "Testimonial",
+  "subtext": "Hear from the leaders and teams who chose Shiv Interior to shape the spaces where their business lives — from the first concepts to the final details that make every workday feel effortless.",
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "Shiv Interior designed our CEO's office to feel both authoritative and welcoming. Every material and finish feels intentional — it instantly communicates the quality of our entire brand.",
+      "name": "Arjun Mehta",
+      "role": "Managing Director",
+      "service": "CEO/MD Desk",
+      "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=240&h=240&q=80&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1024&h=1024&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "quote": "Our reception now sets the tone we always wanted clients to experience. The materials, lighting, and flow — Shiv Interior nailed every single detail, right down to the way visitors move through the space.",
+      "name": "Priya Sharma",
+      "role": "Operations Head",
+      "service": "Reception Desk",
+      "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=240&h=240&q=80&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1024&h=1024&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": 3,
+      "quote": "Our 200+ workstations finally feel cohesive. The team actually enjoys working at their desks now, and productivity has measurably improved since the redesign — every chair, surface, and cable path was thought through.",
+      "name": "Rohit Verma",
+      "role": "HR Director",
+      "service": "Workstation",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=240&h=240&q=80&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1497366858526-0766cadbe8fa?w=1024&h=1024&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "quote": "The new conference room has completely changed how our leadership team collaborates. Acoustic comfort, sight lines, and finishes all work together beautifully — meetings feel focused in a way they never did before.",
+      "name": "Neha Iyer",
+      "role": "Facilities Manager",
+      "service": "Conference Desk",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=240&h=240&q=80&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=1024&h=1024&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": 5,
+      "quote": "The lab layout Shiv Interior designed handles complex equipment routing and ergonomics without compromise. It's rare to find a team that engineers function and elegance at the same time — they delivered on both.",
+      "name": "Karan Singh",
+      "role": "IT Director",
+      "service": "Lab Furniture",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=240&h=240&q=80&auto=format&fit=crop",
+      "image": "https://images.unsplash.com/photo-1581094288338-2314dddb7ece?w=1024&h=1024&q=80&auto=format&fit=crop"
+    }
+  ]
+}

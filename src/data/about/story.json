@@ -1,0 +1,19 @@
+{
+  "heading": "Our Story",
+  "welcome": {
+    "heading": "Welcome to Shiv Industries & Construction LLP's",
+    "paragraphs": [
+      "Shiv Interior began with a simple belief: a well-designed space should feel as good as it looks. What started as a desire to create more thoughtful, personal interiors grew into a studio built around material, light, proportion, and the everyday rituals that make a space feel like home. Today, we work across interiors with the same curiosity and care—creating spaces that are considered without feeling precious, refined without losing warmth, and designed to become part of the lives lived within them."
+    ],
+    "quote": "Transform your workspace, transform your business."
+  },
+  "stats": {
+    "heading": "Together, let's build a future filled with Opportunities and Success.",
+    "items": [
+      { "value": 25, "suffix": "+", "label": "Years of Experience" },
+      { "value": 50, "suffix": "+", "label": "Designs" },
+      { "value": 1800, "suffix": "+", "label": "Finished Projects" },
+      { "value": 300, "suffix": "+", "label": "Team Members" }
+    ]
+  }
+}

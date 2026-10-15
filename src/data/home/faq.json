@@ -1,0 +1,51 @@
+{
+  "sectionNumber": "08",
+  "label": "Frequently Asked //",
+  "heading": "Inquiries",
+  "cta": {
+    "label": "Contact Us",
+    "href": "/contact"
+  },
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What types of projects does Shiv Interior specialize in?",
+      "answer": "We specialize in commercial workspaces — corporate offices, CEO and MD cabins, conference rooms, reception areas, workstations, cafeterias, educational institutions, and laboratory environments. Every project is engineered for function first, then finished with materials and detailing that match your brand."
+    },
+    {
+      "id": 2,
+      "question": "How does the design process begin?",
+      "answer": "We begin with a consultation to understand your workspace requirements, team workflows, and brand identity before developing a tailored design strategy with complete clarity and confidence. You'll see concept layouts, material samples, and 3D visuals before we ever cut a panel."
+    },
+    {
+      "id": 3,
+      "question": "What is the typical timeline for a workspace project?",
+      "answer": "Most projects run 4–12 weeks from initial consultation to final installation. Timelines depend on scope, customization level, and material lead times. Once the concept is approved, we share a detailed week-by-week schedule so you always know what's next."
+    },
+    {
+      "id": 4,
+      "question": "Do you manufacture and install your own furniture?",
+      "answer": "Yes — design, manufacturing, delivery, and installation are all handled in-house by our own team. This integrated model means consistent quality, faster turnaround, and a single point of accountability from the first sketch to the final walkthrough."
+    },
+    {
+      "id": 5,
+      "question": "Can you work with our existing office furniture?",
+      "answer": "Absolutely. We assess your current inventory, identify pieces worth retaining for quality or sentimental reasons, and integrate them into the new layout. This often saves budget and gives the new space a more lived-in, considered feel."
+    },
+    {
+      "id": 6,
+      "question": "Do you provide 3D visualization before execution?",
+      "answer": "Yes — every project comes with realistic 3D renders, layout plans, and physical material samples so you can review the design with full confidence before production begins. You'll know exactly what you're approving before we cut a single panel."
+    },
+    {
+      "id": 7,
+      "question": "What materials and finishes do you offer?",
+      "answer": "We work with a curated range of laminates, veneers, powder-coated metals, glass, acrylics, and contract-grade upholstery. Our design team helps you select finishes that match your brand identity while meeting the durability and maintenance needs of a working environment."
+    },
+    {
+      "id": 8,
+      "question": "Do you handle on-site execution and quality checks?",
+      "answer": "Yes — dedicated project managers oversee installation, snagging, and final quality checks. We hand over the space only when every detail matches the approved design — from cable management and joinery alignment to the last piece of hardware."
+    }
+  ]
+}

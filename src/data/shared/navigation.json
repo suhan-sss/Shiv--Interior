@@ -1,0 +1,35 @@
+{
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    {
+      "label": "Products",
+      "href": "/products",
+      "children": [
+        { "label": "CEO/MD Desk", "href": "/products/ceo-md-desk" },
+        { "label": "Sofas", "href": "/products/sofas" },
+        { "label": "Cafeteria Furniture", "href": "/products/cafeteria-furniture" },
+        { "label": "Conference Desk", "href": "/products/conference-desk" },
+        { "label": "Lab Furniture", "href": "/products/lab-furniture" },
+        { "label": "Wardrobe & Storage", "href": "/products/wardrobe-storage" },
+        { "label": "Workstation", "href": "/products/workstation" },
+        { "label": "Reception Desk", "href": "/products/reception-desk" },
+        { "label": "Education Furniture", "href": "/products/education-furniture" }
+      ]
+    },
+    { "label": "Portfolio", "href": "/portfolio" },
+    { "label": "PV & LGST Structure", "href": "/pv-lgst-structure" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "socialLinks": [
+    { "name": "facebook", "href": "#" },
+    { "name": "twitter", "href": "#" },
+    { "name": "linkedin", "href": "#" },
+    { "name": "pinterest", "href": "#" },
+    { "name": "instagram", "href": "https://www.instagram.com/" }
+  ],
+  "brand": {
+    "name": "Shiv Industries & Constructions LLP",
+    "poweredBy": { "name": "Innovire Studio", "href": "#" }
+  }
+}

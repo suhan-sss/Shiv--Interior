@@ -1,0 +1,25 @@
+{
+  "heading": "Our Approach",
+  "subtext": "From the first conversation to the final detail, our process brings structure, creativity, and close collaboration to every stage of your project.",
+  "image": {
+    "src": "https://framerusercontent.com/images/H6fReeYAf0eyN12dLhl6tIgVeTw.png",
+    "alt": "Shiv Interior studio workspace"
+  },
+  "items": [
+    {
+      "category": "Personal Approach",
+      "title": "Designed Around You",
+      "description": "Every project begins with understanding how your team works, what matters to your brand, and how the space should feel. We design around real routines rather than following trends."
+    },
+    {
+      "category": "Material Focus",
+      "title": "Beauty in the Details",
+      "description": "From natural materials and tactile finishes to proportion, light, and spatial flow, every element is selected with purpose to create a cohesive and lasting interior."
+    },
+    {
+      "category": "Lasting Design",
+      "title": "Made to Stay Relevant",
+      "description": "We balance contemporary design with timeless elements, creating spaces that feel current today but continue to feel right years from now."
+    }
+  ]
+}

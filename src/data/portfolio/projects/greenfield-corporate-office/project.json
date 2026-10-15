@@ -1,0 +1,36 @@
+{
+  "id": "greenfield-corporate-office",
+  "title": "Greenfield Corporate Office",
+  "category": "Corporate Workspace",
+  "tagline": "A 14,000 sq ft open-plan office that translates Greenfield's brand voice into a calm, tactile space where teams can focus, collaborate, and feel at home.",
+  "year": "2025",
+  "location": "Bandra Kurla Complex, Mumbai",
+  "area": "14,000 sq ft",
+  "client": "Greenfield Industries (confidential)",
+  "services": ["Space Planning", "Custom Millwork", "Lighting Design", "Acoustic Treatment", "Branding Integration"],
+  "overview": "Greenfield approached us during a pivotal rebrand — their 200-person operations team was splitting across two dated floors and they wanted the new HQ to feel like one connected workspace, not a corporate floor plate. We re-imagined the plan around three neighbourhood zones (focus / collaboration / hospitality), anchored by a full-height atrium and a hand-finished timber stair that ties both floors together visually and acoustically.",
+  "challenge": "The existing floor plate was a long, narrow rectangle with limited daylight at the centre. The team also wanted to keep the heritage concrete columns exposed — a non-negotiable from the founders.",
+  "solution": "We carved a 6m × 8m atrium through the centre slab to bring daylight deep into the floor and used the heritage columns as the rhythm that organises every workstation cluster, breakout nook, and phone room around them.",
+  "coverImage": {
+    "src": "https://framerusercontent.com/images/op0s69myNvQULTnFQbnKs2nQzc.png",
+    "alt": "Greenfield Corporate Office — main floor atrium with heritage concrete columns"
+  },
+  "gallery": [
+    {
+      "src": "https://framerusercontent.com/images/op0s69myNvQULTnFQbnKs2nQzc.png",
+      "alt": "Atrium view with timber stair"
+    },
+    {
+      "src": "https://framerusercontent.com/images/Qs6iV2JMbhb8InytOV8ITbzb1I.png",
+      "alt": "Open-plan workstation cluster"
+    },
+    {
+      "src": "https://framerusercontent.com/images/NEuEQXhsFoqIhw83ZJvQiPqntFg.png",
+      "alt": "Boardroom with custom millwork"
+    },
+    {
+      "src": "https://framerusercontent.com/images/qMTM5qZRckOK7nkW5Hf2JM4TwyY.png",
+      "alt": "Breakout lounge with soft seating"
+    }
+  ]
+}

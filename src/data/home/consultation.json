@@ -1,0 +1,91 @@
+{
+  "sectionNumber": "10",
+  "heading": "Contact Us",
+  "subtext": "Have a project in mind, a question about our services, or just want to talk interiors? Send us a message and we'll get back to you within 24 hours.",
+  "contact": [
+    { "label": "Email", "value": "hello@shivinterior.com" },
+    { "label": "Phone", "value": "+91 98765 43210" },
+    { "label": "Location", "value": "Mumbai, Maharashtra, India" },
+    { "label": "Response Time", "value": "We reply within 24 hours" }
+  ],
+  "fields": [
+    {
+      "name": "name",
+      "label": "Full Name",
+      "type": "text",
+      "placeholder": "Enter your full name",
+      "required": true
+    },
+    {
+      "name": "email",
+      "label": "Email Address",
+      "type": "email",
+      "placeholder": "Enter your email address",
+      "required": true
+    },
+    {
+      "name": "location",
+      "label": "Location",
+      "type": "text",
+      "placeholder": "Where is your project located?",
+      "required": true
+    },
+    {
+      "name": "projectType",
+      "label": "Project Type",
+      "type": "select",
+      "placeholder": "Select project type",
+      "options": [
+        "CEO / MD Desk",
+        "Conference Desk",
+        "Reception Desk",
+        "Workstation",
+        "Lab Furniture",
+        "Cafeteria Furniture",
+        "Education Furniture",
+        "Wardrobe & Storage",
+        "Sofas",
+        "PV & LGST Structure",
+        "Other"
+      ],
+      "required": true
+    },
+    {
+      "name": "timeline",
+      "label": "Timeline",
+      "type": "select",
+      "placeholder": "Select timeline",
+      "options": [
+        "Flexible",
+        "Within 3 Months",
+        "3 – 6 Months",
+        "6 – 12 Months",
+        "12+ Months"
+      ],
+      "required": true
+    },
+    {
+      "name": "budget",
+      "label": "Your Budget",
+      "type": "select",
+      "placeholder": "Select budget range",
+      "options": [
+        "Under ₹5 Lakh",
+        "₹5 – 15 Lakh",
+        "₹15 – 50 Lakh",
+        "₹50 Lakh – 1 Crore",
+        "₹1 Crore+",
+        "Let's Discuss"
+      ],
+      "required": true
+    },
+    {
+      "name": "message",
+      "label": "Message",
+      "type": "textarea",
+      "placeholder": "Tell us about your project",
+      "required": true
+    }
+  ],
+  "submit": "Submit"
+}

@@ -1,0 +1,48 @@
+{
+  "sectionNumber": "04",
+  "label": "Frequently Asked",
+  "heading": "FAQs",
+  "subtext": "Got questions? We've gathered the most common answers to help you understand how we work.",
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What types of projects does Shiv Interior take on?",
+      "answer": "We design and build CEO cabins, conference rooms, reception desks, workstations, lab and education setups, wardrobes & storage, sofas, and PV/LGST structures — essentially every kind of workspace furniture a company needs."
+    },
+    {
+      "id": 2,
+      "question": "Do you work with companies of any size?",
+      "answer": "Yes. From a single CEO cabin for a founder to full-floor office fit-outs for large enterprises — our process scales to fit your team, timeline, and budget."
+    },
+    {
+      "id": 3,
+      "question": "Can I see materials and finishes before I commit?",
+      "answer": "Absolutely. We share curated material samples, finish swatches, and 3D walkthroughs during the design phase so you can sign off on every detail before production begins."
+    },
+    {
+      "id": 4,
+      "question": "How involved will we be in the process?",
+      "answer": "You'll be involved at every milestone — discovery, concept, material selection, production updates, and final installation. We keep the workflow transparent and collaborative."
+    },
+    {
+      "id": 5,
+      "question": "What's your typical project timeline?",
+      "answer": "Most projects run between 4 and 12 weeks depending on scope. We share a clear schedule after the discovery call so you know exactly what happens when."
+    },
+    {
+      "id": 6,
+      "question": "Do you handle installation on-site?",
+      "answer": "Yes. Our team manages delivery, on-site installation, and final snagging end-to-end, so you can focus on running your business while we handle the build."
+    },
+    {
+      "id": 7,
+      "question": "Where are you based, and do you travel?",
+      "answer": "We're based in Mumbai and serve clients across Maharashtra and India. For larger projects outside the region, we travel — get in touch and we'll confirm feasibility."
+    },
+    {
+      "id": 8,
+      "question": "How do we get started with Shiv Interior?",
+      "answer": "Send us a message through the form above. We'll set up a discovery call to understand your space, your team, and your vision — and follow up with a tailored proposal within 48 hours."
+    }
+  ]
+}

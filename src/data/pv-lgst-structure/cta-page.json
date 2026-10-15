@@ -1,0 +1,28 @@
+{
+  "sectionNumber": "01",
+  "label": "Let's Begin",
+  "heading": "Let's Build Your PV & LGSF Project",
+  "subtext": "From solar car park structures to fully engineered light-gauge steel buildings — our team handles design, fabrication, and on-site erection across North India. Tell us about your site and we'll come back with a feasibility + cost plan within 48 hours.",
+  "features": [
+    {
+      "title": "Custom-Engineered",
+      "description": "Every structure is engineered to the design loads of the project, including snow, wind, and seismic conditions specific to your site."
+    },
+    {
+      "title": "AZ 150 Galvalume",
+      "description": "All structural members use Zinc + aluminium coated steel (AZ 150) with yield strength ≥ 550 MPa — built for decades, not years."
+    },
+    {
+      "title": "Fast On-Site Erection",
+      "description": "Factory-made panels are delivered ready to bolt. Typical LGSF structure: ground + floors in weeks, not months."
+    },
+    {
+      "title": "Earthquake Resistant",
+      "description": "LGSF's light weight + high strength gives excellent earthquake resistance — ideal for difficult terrains including mining sites."
+    }
+  ],
+  "cta": {
+    "label": "Book A Consultation",
+    "href": "/contact"
+  }
+}

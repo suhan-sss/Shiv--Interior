@@ -1,0 +1,266 @@
+{
+  "pillLabel": "Privacy Policy",
+  "heading": "Your Privacy, Our Promise",
+  "subtext": "What we collect, why we collect it, and the choices you have when it comes to your personal information and how it's handled at Shiv Interior.",
+  "introBlocks": [
+    {
+      "type": "p",
+      "text": "At Shiv Interior, your privacy is important to us. We are committed to protecting your personal information and being transparent about how it is collected, used, stored, and shared. This Privacy Policy explains our data practices whenever you visit our website, contact us, request a proposal, subscribe to our journal, or engage our design services."
+    },
+    {
+      "type": "p",
+      "text": "By accessing or using our website, you acknowledge that you have read and understood this Privacy Policy and consent to the collection and use of your information as described below."
+    }
+  ],
+  "sections": [
+    {
+      "id": "information-we-collect",
+      "title": "Information We Collect",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "To provide a seamless experience, we may collect different types of information depending on how you interact with our website and services."
+        },
+        {
+          "type": "p",
+          "text": "This may include personal information such as your name, email address, phone number, property address, project details, budget range, and any information you voluntarily provide when submitting an inquiry, requesting a consultation, booking a site visit, contacting our team, or subscribing to our journal."
+        },
+        {
+          "type": "p",
+          "text": "We also collect certain technical information automatically, including your IP address, browser type, operating system, device information, pages visited, session duration, referral sources, and interactions with our website. This information helps us improve website performance, optimize user experience, and better understand how visitors use our services."
+        }
+      ]
+    },
+    {
+      "id": "how-we-use-your-information",
+      "title": "How We Use Your Information",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We use the information we collect to operate and improve our services while providing you with a professional and personalized experience."
+        },
+        {
+          "type": "p",
+          "text": "Your information may be used to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Respond to inquiries and project requests.",
+            "Prepare design proposals and estimates.",
+            "Deliver design services and project updates.",
+            "Process invoices and payments.",
+            "Communicate throughout the duration of a project.",
+            "Improve our website, services, and client experience.",
+            "Personalize content and recommendations.",
+            "Detect and prevent fraudulent or unauthorized activity.",
+            "Send journal updates, studio news, and marketing communications if you have opted in.",
+            "Comply with legal and regulatory obligations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "We only use your information for legitimate business purposes and in accordance with applicable privacy laws."
+        }
+      ]
+    },
+    {
+      "id": "cookies-and-tracking",
+      "title": "Cookies & Tracking Technologies",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We use cookies and similar technologies to improve website functionality and enhance your browsing experience."
+        },
+        {
+          "type": "p",
+          "text": "Cookies help us remember your preferences, analyze website traffic, understand visitor behavior, improve website performance, and measure the effectiveness of our marketing efforts."
+        },
+        {
+          "type": "p",
+          "text": "You can control or disable cookies through your browser settings at any time. Please note that disabling certain cookies may affect the functionality and performance of some features on our website."
+        }
+      ]
+    },
+    {
+      "id": "payment-information",
+      "title": "Payment Information",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "For your security, Shiv Interior does not store complete credit or debit card information."
+        },
+        {
+          "type": "p",
+          "text": "Payments are processed securely through trusted third-party payment providers that use industry-standard encryption and security practices. These providers are responsible for handling your payment information in accordance with their own privacy and security policies."
+        }
+      ]
+    },
+    {
+      "id": "sharing-your-information",
+      "title": "Sharing Your Information",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We respect your privacy and do not sell, rent, or trade your personal information to third parties for their own marketing purposes."
+        },
+        {
+          "type": "p",
+          "text": "We may share your information only when necessary with trusted service providers that help us operate our business, including:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Payment processors",
+            "Hosting providers",
+            "Analytics services",
+            "Email and marketing platforms",
+            "Project management and collaboration tools",
+            "Customer support services",
+            "Fraud prevention providers",
+            "Legal authorities when required by applicable law"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "These partners may use your information only for the purpose of providing services on our behalf and are expected to maintain appropriate security and confidentiality standards."
+        }
+      ]
+    },
+    {
+      "id": "data-security",
+      "title": "Data Security",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Protecting your personal information is a priority for Shiv Interior."
+        },
+        {
+          "type": "p",
+          "text": "We implement appropriate administrative, technical, and organizational safeguards designed to protect your information against unauthorized access, misuse, disclosure, alteration, or destruction."
+        },
+        {
+          "type": "p",
+          "text": "Although we use commercially reasonable security measures, no method of internet transmission or electronic storage is completely secure. Therefore, we cannot guarantee absolute security."
+        }
+      ]
+    },
+    {
+      "id": "data-retention",
+      "title": "Data Retention",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We retain your personal information only for as long as necessary to fulfill the purposes described in this Privacy Policy."
+        },
+        {
+          "type": "p",
+          "text": "Information may also be retained where required to comply with legal obligations, resolve disputes, enforce agreements, maintain accurate business records, or protect our legal rights."
+        },
+        {
+          "type": "p",
+          "text": "Once your information is no longer required, we will securely delete or anonymize it where reasonably practicable."
+        }
+      ]
+    },
+    {
+      "id": "your-privacy-rights",
+      "title": "Your Privacy Rights",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Depending on your location and applicable laws, you may have certain rights regarding your personal information."
+        },
+        {
+          "type": "p",
+          "text": "These rights may include the ability to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Access your personal information.",
+            "Correct inaccurate or incomplete information.",
+            "Request deletion of your data.",
+            "Withdraw consent for marketing communications.",
+            "Request a copy of your personal information.",
+            "Object to or restrict certain processing activities where permitted by law."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "We will respond to applicable privacy requests within a reasonable timeframe and in accordance with applicable laws."
+        }
+      ]
+    },
+    {
+      "id": "third-party-websites",
+      "title": "Third-Party Websites",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Our website may contain links to third-party websites, social media channels, or other online services for your convenience."
+        },
+        {
+          "type": "p",
+          "text": "These websites operate independently from Shiv Interior and maintain their own privacy policies. We encourage you to review those policies before providing any personal information, as we are not responsible for their content, privacy practices, or security."
+        }
+      ]
+    },
+    {
+      "id": "childrens-privacy",
+      "title": "Children's Privacy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Shiv Interior is intended for individuals and businesses that are legally permitted to use our services."
+        },
+        {
+          "type": "p",
+          "text": "We do not knowingly collect personal information from children without the consent required by applicable law. If we become aware that such information has been collected unintentionally, we will take reasonable steps to remove it promptly."
+        }
+      ]
+    },
+    {
+      "id": "international-data-transfers",
+      "title": "International Data Transfers",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Depending on where you access our services, your information may be processed or stored in countries other than your own."
+        },
+        {
+          "type": "p",
+          "text": "When transferring personal information internationally, we take reasonable measures to ensure that your data receives an appropriate level of protection consistent with applicable privacy laws."
+        }
+      ]
+    },
+    {
+      "id": "changes-to-this-policy",
+      "title": "Changes to This Privacy Policy",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "We may update this policy periodically to reflect changes in our services, technology, legal requirements, or business practices."
+        },
+        {
+          "type": "p",
+          "text": "Any updates will become effective upon publication on this page unless otherwise stated. We encourage you to review this Privacy Policy regularly to stay informed about how your information is protected."
+        }
+      ]
+    },
+    {
+      "id": "contact-us",
+      "title": "Contact Us",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "If you have any questions, concerns, or requests regarding this Privacy Policy or how your personal information is handled, please contact us using the contact information available on our Contact page."
+        },
+        {
+          "type": "p",
+          "text": "Our team will make reasonable efforts to respond to your inquiry as quickly as possible."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "sectionNumber": "02",
+  "heading": "Our Service",
+  "subtext": "From concept to completion, we shape every element of your workspace — furniture, fixtures, and structures — so the result feels cohesive, functional, and distinctly yours.",
+  
+  "services": [
+    {
+      "slug": "ceo-md-desk",
+      "stage": "Leadership",
+      "title": "CEO/MD Desk",
+      "description": "Bespoke executive desks tailored to leadership presence — ergonomic engineering, premium finishes, and built-in tech anchoring the modern corner office.",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/ceo-md-desk",
+      "chips": ["Custom Design", "Premium Finishes", "Ergonomic Setup", "Cable Management"]
+    },
+    {
+      "slug": "conference-desk",
+      "stage": "Collaboration",
+      "title": "Conference Desk",
+      "description": "Conference and boardroom tables sized and finished for productive meetings — from intimate six-seaters to full boardroom leadership.",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/conference-desk",
+      "chips": ["Boardroom Tables", "Modular Layouts", "Acoustic Surfaces", "Integrated Tech"]
+    },
+    {
+      "slug": "reception-desk",
+      "stage": "Front-of-House",
+      "title": "Reception Desk",
+      "description": "Reception counters that set the tone for every visitor — brand presence, wayfinding cues, and durable surfaces for daily traffic.",
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/reception-desk",
+      "chips": ["Brand-Centric Design", "Visitor Flow", "Working Lighting", "Storage Integration"]
+    },
+    {
+      "slug": "workstation",
+      "stage": "Daily Productivity",
+      "title": "Workstation",
+      "description": "Modular workstations engineered for focused individual output — acoustic screens, sit-stand options, and cable channels that disappear into clean lines.",
+      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/workstation",
+      "chips": ["Sit-Stand Ready", "Acoustic Panels", "Modular Build", "Cable Channels"]
+    },
+    {
+      "slug": "lab-furniture",
+      "stage": "Specialist",
+      "title": "Lab Furniture",
+      "description": "Chemical-resistant lab benches, fume-cupboard cabinets, and modular service units built around the realities of research and instruction.",
+      "image": "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/lab-furniture",
+      "chips": ["Chemical Resistance", "Service Modules", "Safety Standards", "Modular Cabinets"]
+    },
+    {
+      "slug": "cafeteria-furniture",
+      "stage": "Communal",
+      "title": "Cafeteria Furniture",
+      "description": "Cafeteria and pantry seating designed for high traffic and fast clean-up — ergonomic chairs, durable tables, and layouts that ease the lunch rush.",
+      "image": "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/cafeteria-furniture",
+      "chips": ["High-Density", "Easy Clean", "Acoustic Zoning", "Flexible Layout"]
+    },
+    {
+      "slug": "education-furniture",
+      "stage": "Learning",
+      "title": "Education Furniture",
+      "description": "Classroom, seminar, and library furniture that supports how students actually learn — movable desks, stackable seating, and collaborative cluster layouts.",
+      "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/education-furniture",
+      "chips": ["Movable Desks", "Stackable Seating", "Collaborative Layouts", "Durable Finishes"]
+    },
+    {
+      "slug": "wardrobe-storage",
+      "stage": "Organization",
+      "title": "Wardrobe & Storage",
+      "description": "Built-in wardrobes, wall storage, and cabinetry that turn clutter into calm — finished in materials that match the rest of the space.",
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/wardrobe-storage",
+      "chips": ["Built-In Cabinetry", "Sliding Wardrobes", "Modular Storage", "Finish Matching"]
+    },
+    {
+      "slug": "sofas",
+      "stage": "Lounge",
+      "title": "Sofas",
+      "description": "Lounge and reception seating shaped for long conversations and short waits — fabric and leather upholstery on frames built for daily use.",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=80&auto=format&fit=crop",
+      "href": "/products/sofas",
+      "chips": ["Lounge Seating", "Reception Sets", "Fabric & Leather", "Custom Upholstery"]
+    },
+    {
+      "slug": "pv-lgst-structure",
+      "stage": "Structural",
+      "title": "PV & LGST Structure",
+      "description": "Solar PV mounting structures and lightning-arrestor frameworks fabricated to site and certified to specification — engineered for Indian rooftop conditions.",
+      "image": "/images/pv-lgst/LGSF.jpg",
+      "href": "/products/pv-lgst-structure",
+      "chips": ["PV Mounting", "Lightning Arrestor", "Site-Fabricated", "Certified Build"]
+    }
+  ]
+}

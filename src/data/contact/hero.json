@@ -1,0 +1,14 @@
+{
+  "label": "Get in Touch",
+  "lines": [
+    "Whether you're ready",
+    "to build — we're here to listen.",
+    "Reach out and let's start creating",
+    "something."
+  ],
+  "subtext": "Have a project in mind, a question about our services, or just want to talk interiors? Send us a message and we'll get back to you within 24 hours.",
+  "image": {
+    "src": "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "alt": "A calm, well-lit interior — representative image for the contact page"
+  }
+}

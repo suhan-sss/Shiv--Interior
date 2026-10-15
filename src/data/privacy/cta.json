@@ -1,0 +1,10 @@
+{
+  "sectionNumber": "02",
+  "label": "Let's Begin",
+  "heading": "Questions About How We Handle Your Data?",
+  "subtext": "If you'd like to know more about our privacy practices, request a copy of your data, or have any concerns — our team is just a click away.",
+  "cta": {
+    "label": "Get In Touch",
+    "href": "/contact"
+  }
+}

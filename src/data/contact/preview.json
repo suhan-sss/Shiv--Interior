@@ -1,0 +1,10 @@
+{
+  "image": {
+    "src": "https://images.pexels.com/photos/19786710/pexels-photo-19786710.jpeg",
+    "alt": "Interior showcase — parallax preview image for the contact page"
+  },
+  "containerHeight": "90dvh",
+  "parallaxTravel": "-15% to +15%",
+  "imageHeight": "130%",
+  "imageTopOffset": "-15%"
+}

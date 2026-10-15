@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    /* Non-static position is required so Framer Motion's `useScroll`
+       hook can correctly measure scroll offset when Lenis smooth-scroll
+       is active. Lenis applies `transform: translate3d(0, -y, 0)` to
+       <html> (or <body>) for its tween-driven scroll, which causes
+       Framer Motion's on-scroll-handler to fire its "container has a
+       non-static position" warning. Pinning `position: relative` here
+       silences the warning AND lets `useScroll({ target })` read
+       accurate scroll progress for parallax/scale animations.
+
+       Safe to add: <html> is already at the root of the document;
+       relative positioning doesn't change layout, only establishes a
+       containing block for absolutely-positioned descendants (which
+       we don't have on <html>). */
+    position: relative;
+
+    /* Lock the base font-size to 16px so text renders identically across
+       Chrome, Edge, Brave, and Firefox.
+
+       Without this, Chrome's `chrome://settings/appearance` → "Font size"
+       setting (Small / Medium / Large / Very Large) silently scales 1rem
+       to 0.75rem / 1rem / 1.25rem / 1.5rem respectively. Edge's
+       `edge://settings/appearance` → "Fonts" → "Page fonts" defaults to
+       Medium and doesn't scale the same way, so the same page renders
+       ~25% larger in Chrome than Edge when Chrome is set to "Large".
+
+       By pinning `font-size: 16px` on <html>, Tailwind's `text-base`
+       (which is 1rem) resolves to exactly 16px in every browser, so the
+       design renders identically regardless of the user's browser-level
+       font-size preference.
+
+       Accessibility: users who need larger text can still use:
+         - OS-level "Make text bigger" (Windows Display, macOS Accessibility)
+         - Browser zoom (Ctrl + / Ctrl -), which scales the whole page
+           proportionally and respects the locked base
+         - In-app scaling via rem-based responsive utilities (text-sm,
+           text-base, text-lg, etc.) on individual components
+
+       Sub-10px caveat: Chrome also has a minimum font-size floor
+       (default 10px) that forces `text-[8px]` / `text-[9px]` up to 10px.
+       Our codebase's smallest explicit size is `text-[11px]`, so we're
+       well above that floor. */
+    font-size: 16px;
+
+    /* Native fallback for browsers without Lenis, plus anchor links that
+       bypass Lenis (programmatic scroll, hash navigation, etc.). */
+    scroll-behavior: smooth;
+    /* Keep anchor jumps clear of the sticky header (~80px tall). */
+    scroll-padding-top: 5rem;
+  }
+
+  /* Apply the same sticky-header offset to in-page section anchors when
+     navigating to them by hash. */
+  section[id] {
+    scroll-margin-top: 5rem;
+  }
+
+  /* Respect user preference — disable motion smoothing for anyone who
+     has requested it. Lenis honors this automatically too. */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}

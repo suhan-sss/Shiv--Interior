@@ -1,0 +1,48 @@
+{
+  "pvStructure": {
+    "sectionNumber": "01",
+    "title": "PV Structure",
+    "intro": "A PV Structure is a mounting system suitable for housing a Photovoltaic system. In other words, it is the structure that holds the solar panels for outdoor commercial solar projects. We specialise in designing structures that are used as solar car parks.",
+    "body": "We can install a PV Structure in a variety of different situations. They can be used in conjunction with rooftop commercial solar panels to create a complete solar solution. Our team primarily erects car park solar structures for the following applications:",
+    "bullets": [
+      "Shopping Centres",
+      "Strip Mall Style Shopping Precincts",
+      "Standalone Retail — furniture stores, hardware, and similar",
+      "Commercial Offices",
+      "Factories",
+      "Industrial Buildings such as industrial shed precincts",
+      "Transport Hubs — Train Stations, Bus Stations",
+      "Local Council and Government Buildings",
+      "Sports Clubs and RSL's"
+    ],
+    "image": {
+      "src": "/images/pv-lgst/PV.jpg",
+      "alt": "PV Structure — solar car park mounting system for commercial projects"
+    }
+  },
+  "lgsfStructure": {
+    "sectionNumber": "02",
+    "title": "LGSF Structure",
+    "intro": "Light Gauge Steel Framed Structures (LGSF) is based on factory-made galvanized light gauge steel components. The sections are produced by cold forming and assembled as panels at site, forming the structural steel framework of a building of varying wall and floor sizes. Assembly uses special screws and bolts. LGSF is typically ideal for one to four storey buildings — especially residential and commercial — and for buildings higher than G+3, it can be used with hot-rolled steel sections.",
+    "body": "The flooring / slab can be with deck sheet supported on floor joists with in-situ reinforced concrete on top, or in-situ conventional RCC slab. Wall cladding used (high-density cement fiber board, concrete panels, etc.) resists wind load and conforms to functional requirements. The construction sequence comprises foundation laying, fixing of tracks, fixing of wall panels with bracings as required, fixing of floor panels, fixing of roof panels, decking sheet, fixing of electrical & plumbing services, and finally fixing of insulation material & walling panels.",
+    "body2": "LGSF (Light Gauge Steel Frame) construction is based on factory-made Galvalume (AZ 150) light gauge cold-formed steel of 550 MPa, assembled as panels at site forming the structural framework of a building of varying wall and floor sizes. As these are light in weight, they require a nominal civil foundation and offer excellent earthquake resistance — making them ideal for difficult terrains such as mines.",
+    "specs": [
+      {
+        "label": "Structural Members",
+        "value": "Mild steel Galvanized Structure with yield strength ≥ 550 MPa and Zinc + aluminium coating AZ 150. Size and thickness based on design criteria."
+      },
+      {
+        "label": "Roofing (Pitched / Flat)",
+        "value": "PPGL .45 mm sheet with 50 mm insulation — or 0.8 mm deck sheet with 75 mm concrete flooring."
+      },
+      {
+        "label": "Boarding",
+        "value": "External: 2 layers of High-density Fiber cement boards (6 mm + 9 mm HD FCB). Internal: 8 mm FCB + 12.5 mm Gypsum. 100 mm rock wool insulation throughout."
+      }
+    ],
+    "image": {
+      "src": "/images/pv-lgst/LGSF.jpg",
+      "alt": "LGSF Structure — light gauge steel framed framework for residential and commercial buildings"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "ceo-md-desk",
+    "label": "CEO/MD Desk",
+    "href": "/products/ceo-md-desk"
+  },
+  {
+    "slug": "sofas",
+    "label": "Sofas",
+    "href": "/products/sofas"
+  },
+  {
+    "slug": "cafeteria-furniture",
+    "label": "Cafeteria Furniture",
+    "href": "/products/cafeteria-furniture"
+  },
+  {
+    "slug": "conference-desk",
+    "label": "Conference Desk",
+    "href": "/products/conference-desk"
+  },
+  {
+    "slug": "lab-furniture",
+    "label": "Lab Furniture",
+    "href": "/products/lab-furniture"
+  },
+  {
+    "slug": "wardrobe-storage",
+    "label": "Wardrobe & Storage",
+    "href": "/products/wardrobe-storage"
+  },
+  {
+    "slug": "workstation",
+    "label": "Workstation",
+    "href": "/products/workstation"
+  },
+  {
+    "slug": "reception-desk",
+    "label": "Reception Desk",
+    "href": "/products/reception-desk"
+  },
+  {
+    "slug": "education-furniture",
+    "label": "Education Furniture",
+    "href": "/products/education-furniture"
+  }
+]

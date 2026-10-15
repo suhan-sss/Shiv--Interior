@@ -1,0 +1,38 @@
+{
+  "heading": "Our Team",
+  "subtext": "Meet the designers and makers behind Shiv Interior, bringing together different perspectives, disciplines, and a shared belief in thoughtful design.",
+  "members": [
+    {
+      "name": "Arjun Mehta",
+      "role": "Founder & Principal Designer",
+      "image": {
+        "src": "https://framerusercontent.com/images/bI0YnW9e1qJvuLkCFS3DDBMZE0.jpg",
+        "alt": "Arjun Mehta, Founder and Principal Designer"
+      }
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "3D Visualization Lead",
+      "image": {
+        "src": "https://framerusercontent.com/images/slLve8T4NVDHbFxwIQgEF9G1nM.jpg",
+        "alt": "Priya Sharma, 3D Visualization Lead"
+      }
+    },
+    {
+      "name": "Rohan Iyer",
+      "role": "Furniture & Sourcing Specialist",
+      "image": {
+        "src": "https://framerusercontent.com/images/uFb1jhl46HXuq9L6zE0l03F2uI.jpg",
+        "alt": "Rohan Iyer, Furniture and Sourcing Specialist"
+      }
+    },
+    {
+      "name": "Ananya Reddy",
+      "role": "Senior Interior Designer",
+      "image": {
+        "src": "https://framerusercontent.com/images/RAzZ2OqaAUT214BAgPu2skzzooA.jpg",
+        "alt": "Ananya Reddy, Senior Interior Designer"
+      }
+    }
+  ]
+}

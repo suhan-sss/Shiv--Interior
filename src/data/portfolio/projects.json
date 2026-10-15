@@ -1,0 +1,90 @@
+[
+  {
+    "id": "greenfield-corporate-office",
+    "number": 1,
+    "title": "Greenfield Corporate Office",
+    "category": "Corporate Workspace",
+    "href": "/portfolio/greenfield-corporate-office",
+    "image": {
+      "src": "https://framerusercontent.com/images/op0s69myNvQULTnFQbnKs2nQzc.png",
+      "alt": "Greenfield Corporate Office project cover image"
+    }
+  },
+  {
+    "id": "ashoka-tech-headquarters",
+    "number": 2,
+    "title": "Ashoka Tech Headquarters",
+    "category": "Tech Headquarters",
+    "href": "/portfolio/ashoka-tech-headquarters",
+    "image": {
+      "src": "https://framerusercontent.com/images/Qs6iV2JMbhb8InytOV8ITbzb1I.png",
+      "alt": "Ashoka Tech Headquarters project cover image"
+    }
+  },
+  {
+    "id": "vertex-finance-boardroom",
+    "number": 3,
+    "title": "Vertex Finance Boardroom",
+    "category": "Boardroom",
+    "href": "/portfolio/vertex-finance-boardroom",
+    "image": {
+      "src": "https://framerusercontent.com/images/NEuEQXhsFoqIhw83ZJvQiPqntFg.png",
+      "alt": "Vertex Finance Boardroom project cover image"
+    }
+  },
+  {
+    "id": "meridian-co-working-studio",
+    "number": 4,
+    "title": "Meridian Co-working Studio",
+    "category": "Co-working",
+    "href": "/portfolio/meridian-co-working-studio",
+    "image": {
+      "src": "https://framerusercontent.com/images/qMTM5qZRckOK7nkW5Hf2JM4TwyY.png",
+      "alt": "Meridian Co-working Studio project cover image"
+    }
+  },
+  {
+    "id": "aurelia-executive-suite",
+    "number": 5,
+    "title": "Aurelia Executive Suite",
+    "category": "Executive Suite",
+    "href": "/portfolio/aurelia-executive-suite",
+    "image": {
+      "src": "https://framerusercontent.com/images/U94cW7Q03DVTvlkJU0aWv8QYdT8.png",
+      "alt": "Aurelia Executive Suite project cover image"
+    }
+  },
+  {
+    "id": "northwind-innovation-hub",
+    "number": 6,
+    "title": "Northwind Innovation Hub",
+    "category": "Innovation Hub",
+    "href": "/portfolio/northwind-innovation-hub",
+    "image": {
+      "src": "https://framerusercontent.com/images/e4DSH4o0yUjAay72W5g2VHymiE.png",
+      "alt": "Northwind Innovation Hub project cover image"
+    }
+  },
+  {
+    "id": "crimson-capital-reception",
+    "number": 7,
+    "title": "Crimson Capital Reception",
+    "category": "Reception",
+    "href": "/portfolio/crimson-capital-reception",
+    "image": {
+      "src": "https://framerusercontent.com/images/9wT2pKkc0vq6TTuio8PcKKwwT0c.png",
+      "alt": "Crimson Capital Reception project cover image"
+    }
+  },
+  {
+    "id": "sterling-legal-chambers",
+    "number": 8,
+    "title": "Sterling Legal Chambers",
+    "category": "Legal Chambers",
+    "href": "/portfolio/sterling-legal-chambers",
+    "image": {
+      "src": "https://framerusercontent.com/images/BWCX1g4SWf8fBjLiOZ4YKnaDf8.png",
+      "alt": "Sterling Legal Chambers project cover image"
+    }
+  }
+]

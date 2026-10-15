@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 540" preserveAspectRatio="xMidYMid slice">
+  <rect width="1500" height="540" fill="#fef3c7"/>
+  <!-- Mock furniture silhouettes -->
+  <g fill="#d97706" opacity="0.35">
+    <rect x="100" y="350" width="120" height="120" rx="6"/>
+    <rect x="280" y="350" width="120" height="120" rx="6"/>
+    <rect x="460" y="350" width="120" height="120" rx="6"/>
+    <rect x="640" y="320" width="160" height="150" rx="8"/>
+    <rect x="860" y="350" width="120" height="120" rx="6"/>
+    <rect x="1040" y="350" width="120" height="120" rx="6"/>
+    <rect x="1220" y="350" width="120" height="120" rx="6"/>
+  </g>
+  <!-- Text label -->
+  <text x="750" y="120" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="48" fill="#92400e">Together,</text>
+  <text x="750" y="170" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#78350f">let's transform ordinary spaces into extraordinary ones</text>
+  <text x="750" y="500" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#a16207">Placeholder — replace with slide-together.jpg · 1500 × 540</text>
+</svg>

@@ -1,0 +1,56 @@
+{
+  "id": "ceo-md-desk",
+  "title": "CEO/MD Desk",
+  "category": "Leadership",
+  "tagline": "A statement piece for the corner office — engineered for long days at the helm, finished to reflect the weight of every decision made at it.",
+  "overview": "The CEO/MD desk is the centrepiece of every leadership floor we design. It carries the brand voice of the company in its proportions, materials, and craftsmanship — the first thing an investor notices in the boardroom video call, the first thing the founders see when they walk in on Monday morning. We build each desk around the person who'll use it: standing or seated, traditional or contemporary, mahogany-and-leather or veneer-and-glass. Every detail — from cable channels that disappear into the legs to a power-and-data module that's flush with the work surface — is engineered to disappear into the work, so what's left on the desk is the work itself.",
+  "features": [
+    "Hand-finished top in chosen veneer, leather inlay, or stone",
+    "Cable management routed through the legs and modesty board",
+    "Integrated power-and-data module flush with the work surface",
+    "Optional privacy screen in matching veneer or frosted glass",
+    "Soft-close pedestal drawers on Blum or Hettich runners",
+    "Sit-stand height variant with whisper-quiet electric lift"
+  ],
+  "specs": [
+    { "label": "Dimensions", "value": "Standard 2.0m × 1.0m; customisable up to 2.4m" },
+    { "label": "Height", "value": "760mm seated · 650–1250mm sit/stand" },
+    { "label": "Lead Time", "value": "8–12 weeks from design approval" },
+    { "label": "Warranty", "value": "10 years structure · 2 years hardware" }
+  ],
+  "materials": [
+    "Veneer — Walnut, Oak, Teak, Mahogany, Ebony",
+    "Solid — Sapelli, Beech, Maple",
+    "Top inlay — Full-grain leather, Calacatta marble, Sintered stone",
+    "Hardware — Blum (Austria), Hettich (Germany)"
+  ],
+  "leadTime": "8–12 weeks from design approval; 4-week rush option available on request.",
+  "customization": [
+    "Custom dimensions and proportions to fit any floor plate",
+    "Integrated AV and conferencing modules for boardroom video calls",
+    "Lockable pedestal and matching credenza",
+    "Material sampling service with 4-week turnaround"
+  ],
+  "heroImage": {
+    "src": "https://images.unsplash.com/photo-1767786330387-5cef0327b6c1?w=2000&q=80&auto=format&fit=crop",
+    "alt": "Modern CEO office with bookshelves and executive desk"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1782243206283-f0973fffedfc?w=1600&q=80&auto=format&fit=crop",
+      "alt": "Classic mahogany executive desk with leather armchair in corner office"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1764410481612-7544525b2991?w=1200&q=80&auto=format&fit=crop",
+      "alt": "Elegant CEO office with desk, chair, and floor-to-ceiling window"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1783437581569-d10b23df85f5?w=1200&q=80&auto=format&fit=crop",
+      "alt": "Contemporary executive desk and abstract rug in corner suite"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1762341121210-6bd877d766b0?w=1200&q=80&auto=format&fit=crop",
+      "alt": "Executive working at modern office desk with laptop"
+    }
+  ]
+}

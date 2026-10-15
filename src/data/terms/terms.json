@@ -1,0 +1,90 @@
+{
+  "pillLabel": "Terms & Conditions",
+  "heading": "Fair Terms, Clear Process",
+  "subtext": "The agreements, policies, and guidelines that govern how you use our website and work with us on your design projects.",
+  "intro": "Welcome to Shiv Interior. These Terms & Conditions (\"Terms\") govern your access to and use of our website, and the design services we provide. By accessing our website, submitting an inquiry, or engaging our services, you agree to be bound by these Terms.",
+  "sections": [
+    {
+      "id": "use-of-website",
+      "title": "Use of Our Website",
+      "paragraphs": [
+        "You may use our website for lawful purposes only. You agree not to use the site in any way that could damage, disable, or impair its functionality, or interfere with any other party's use of the site.",
+        "All content on this website — including images, text, layouts, and branding — is the property of Shiv Interior unless otherwise stated, and may not be reproduced, distributed, or used without our prior written consent."
+      ]
+    },
+    {
+      "id": "consultations-proposals",
+      "title": "Consultations & Proposals",
+      "paragraphs": [
+        "Submitting an inquiry or booking a consultation through our website does not guarantee acceptance of a project. Shiv Interior reserves the right to decline any project at our discretion.",
+        "Any proposal, quotation, or estimate provided is valid for a limited time as stated in the document and is subject to change based on project scope, site conditions, or material availability."
+      ]
+    },
+    {
+      "id": "project-engagement",
+      "title": "Project Engagement",
+      "paragraphs": [
+        "Once a project is confirmed, the specific terms of that engagement — including scope, timeline, payment schedule, and deliverables — will be outlined in a separate signed agreement between Shiv Interior and the client. These Terms apply in addition to, and do not replace, that agreement."
+      ]
+    },
+    {
+      "id": "payments",
+      "title": "Payments",
+      "paragraphs": [
+        "Deposits, milestone payments, and final invoices are due according to the schedule outlined in your project agreement. Late payments may result in paused work or delayed timelines.",
+        "Shiv Interior does not store complete payment card details; all payments are processed through secure third-party providers."
+      ]
+    },
+    {
+      "id": "intellectual-property",
+      "title": "Intellectual Property",
+      "paragraphs": [
+        "Design concepts, drawings, renderings, and material selections created by Shiv Interior remain our intellectual property until full payment has been received, after which usage rights transfer to the client for the specific project only, unless otherwise agreed in writing.",
+        "We reserve the right to photograph completed projects and use them in our portfolio, website, and marketing materials, unless a client has requested confidentiality in writing."
+      ]
+    },
+    {
+      "id": "limitation-of-liability",
+      "title": "Limitation of Liability",
+      "paragraphs": [
+        "Shiv Interior provides design services based on professional judgment and industry standards. We are not liable for delays or issues caused by third-party contractors, suppliers, shipping carriers, or circumstances beyond our reasonable control.",
+        "Our total liability for any claim related to our services is limited to the amount paid by the client for the specific service in question."
+      ]
+    },
+    {
+      "id": "cancellations",
+      "title": "Cancellations",
+      "paragraphs": [
+        "Cancellation terms, including any applicable fees for work already completed, will be outlined in the individual project agreement. General inquiries or unconfirmed bookings may be cancelled at any time without penalty."
+      ]
+    },
+    {
+      "id": "third-party-links",
+      "title": "Third-Party Links",
+      "paragraphs": [
+        "Our website may contain links to third-party websites for your convenience. Shiv Interior is not responsible for the content, accuracy, or privacy practices of any linked external sites."
+      ]
+    },
+    {
+      "id": "changes-to-terms",
+      "title": "Changes to These Terms",
+      "paragraphs": [
+        "We may update these Terms periodically to reflect changes in our services or business practices. Continued use of our website or services after changes are posted constitutes acceptance of the revised Terms."
+      ]
+    },
+    {
+      "id": "governing-law",
+      "title": "Governing Law",
+      "paragraphs": [
+        "These Terms are governed by the laws of India, without regard to conflict of law principles."
+      ]
+    },
+    {
+      "id": "contact-us",
+      "title": "Contact Us",
+      "paragraphs": [
+        "If you have questions about these Terms & Conditions, please reach out using the contact information available on our Contact page."
+      ]
+    }
+  ]
+}
